@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 8f022f0ef51c82a46a2b5e0912387fc4
+timeCreated: 1449853089
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BearTrap
+    100002: //RootNode
+    100004: BearTrap1
+    100006: leftSpike
+    100008: leftSpike 1
+    100010: pad
+    100012: pad 1
+    100014: pCylinder13
+    100016: pCylinder9
+    100018: rightSpike
+    100020: rightSpike 1
+    100022: rod
+    100024: rod 1
+    400000: BearTrap
+    400002: //RootNode
+    400004: BearTrap1
+    400006: leftSpike
+    400008: leftSpike 1
+    400010: pad
+    400012: pad 1
+    400014: pCylinder13
+    400016: pCylinder9
+    400018: rightSpike
+    400020: rightSpike 1
+    400022: rod
+    400024: rod 1
+    2300000: leftSpike
+    2300002: leftSpike 1
+    2300004: pad
+    2300006: pad 1
+    2300008: pCylinder13
+    2300010: pCylinder9
+    2300012: rightSpike
+    2300014: rightSpike 1
+    2300016: rod
+    2300018: rod 1
+    3300000: leftSpike
+    3300002: leftSpike 1
+    3300004: pad
+    3300006: pad 1
+    3300008: pCylinder13
+    3300010: pCylinder9
+    3300012: rightSpike
+    3300014: rightSpike 1
+    3300016: rod
+    3300018: rod 1
+    4300000: rightSpike
+    4300002: leftSpike
+    4300004: pad
+    4300006: rod
+    4300008: rightSpike
+    4300010: leftSpike
+    4300012: pad
+    4300014: rod
+    4300016: pCylinder9
+    4300018: pCylinder13
+    7400000: StopPose
+    7400002: beartrap_shut
+    7400004: beartrap_open
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StopPose
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BearTrap
+        weight: 1
+      - path: BearTrap/leftSpike
+        weight: 1
+      - path: BearTrap/pad
+        weight: 1
+      - path: BearTrap/rightSpike
+        weight: 1
+      - path: BearTrap/rod
+        weight: 1
+      - path: BearTrap1
+        weight: 1
+      - path: BearTrap1/leftSpike 1
+        weight: 1
+      - path: BearTrap1/pad 1
+        weight: 1
+      - path: BearTrap1/rightSpike 1
+        weight: 1
+      - path: BearTrap1/rod 1
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: beartrap_shut
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BearTrap
+        weight: 1
+      - path: BearTrap/leftSpike
+        weight: 1
+      - path: BearTrap/pad
+        weight: 1
+      - path: BearTrap/rightSpike
+        weight: 1
+      - path: BearTrap/rod
+        weight: 1
+      - path: BearTrap1
+        weight: 1
+      - path: BearTrap1/leftSpike 1
+        weight: 1
+      - path: BearTrap1/pad 1
+        weight: 1
+      - path: BearTrap1/rightSpike 1
+        weight: 1
+      - path: BearTrap1/rod 1
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: beartrap_open
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BearTrap
+        weight: 1
+      - path: BearTrap/leftSpike
+        weight: 1
+      - path: BearTrap/pad
+        weight: 1
+      - path: BearTrap/rightSpike
+        weight: 1
+      - path: BearTrap/rod
+        weight: 1
+      - path: BearTrap1
+        weight: 1
+      - path: BearTrap1/leftSpike 1
+        weight: 1
+      - path: BearTrap1/pad 1
+        weight: 1
+      - path: BearTrap1/rightSpike 1
+        weight: 1
+      - path: BearTrap1/rod 1
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

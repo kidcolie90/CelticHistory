@@ -1,0 +1,1886 @@
+fileFormatVersion: 2
+guid: 4c37697beede2c0468609602ccf049bf
+timeCreated: 1449794510
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: chin
+    100004: head
+    100006: jaw
+    100008: joint1
+    100010: joint2
+    100012: joint2 1
+    100014: joint3
+    100016: leg_left_back_claw
+    100018: leg_left_back_humer
+    100020: leg_left_back_meta
+    100022: leg_left_back_tibia
+    100024: leg_left_front_claw
+    100026: leg_left_front_claw 1
+    100028: leg_left_front_humer
+    100030: leg_left_front_long
+    100032: leg_left_front_long 1
+    100034: leg_left_front_meta
+    100036: leg_left_front_meta 1
+    100038: leg_right_back_claw
+    100040: leg_right_back_humer
+    100042: leg_right_back_meta
+    100044: leg_right_back_tibia
+    100046: leg_right_front_humer
+    100048: neck
+    100050: nose
+    100052: pCylinder5
+    100054: pCylinder6
+    100056: pCylinder7
+    100058: pelvis
+    100060: polySurface12
+    100062: polySurface14
+    100064: polySurface15
+    100066: polySurface16
+    100068: polySurface17
+    100070: polySurface18
+    100072: polySurface19
+    100074: polySurface2
+    100076: polySurface20
+    100078: polySurface22
+    100080: polySurface23
+    100082: polySurface26
+    100084: polySurface3
+    100086: polySurface3 1
+    100088: polySurface4
+    100090: polySurface5
+    100092: polySurface6
+    100094: polySurface7
+    100096: polySurface8
+    100098: shoulders
+    100100: snout
+    100102: stomach
+    100104: tail
+    100106: tail_mid
+    100108: tail_start
+    100110: tail_tip
+    100112: transform1
+    100114: transform11
+    100116: transform12
+    100118: transform13
+    100120: transform14
+    100122: transform15
+    100124: transform16
+    100126: transform17
+    100128: transform18
+    100130: transform19
+    100132: transform2
+    100134: transform3
+    100136: transform4
+    100138: transform5
+    100140: transform6
+    100142: transform7
+    100144: transform8
+    100146: transform9
+    100148: wolf
+    100150: wolf_mesh
+    100152: //RootNode
+    400000: back
+    400002: chin
+    400004: head
+    400006: jaw
+    400008: joint1
+    400010: joint2
+    400012: joint2 1
+    400014: joint3
+    400016: leg_left_back_claw
+    400018: leg_left_back_humer
+    400020: leg_left_back_meta
+    400022: leg_left_back_tibia
+    400024: leg_left_front_claw
+    400026: leg_left_front_claw 1
+    400028: leg_left_front_humer
+    400030: leg_left_front_long
+    400032: leg_left_front_long 1
+    400034: leg_left_front_meta
+    400036: leg_left_front_meta 1
+    400038: leg_right_back_claw
+    400040: leg_right_back_humer
+    400042: leg_right_back_meta
+    400044: leg_right_back_tibia
+    400046: leg_right_front_humer
+    400048: neck
+    400050: nose
+    400052: pCylinder5
+    400054: pCylinder6
+    400056: pCylinder7
+    400058: pelvis
+    400060: polySurface12
+    400062: polySurface14
+    400064: polySurface15
+    400066: polySurface16
+    400068: polySurface17
+    400070: polySurface18
+    400072: polySurface19
+    400074: polySurface2
+    400076: polySurface20
+    400078: polySurface22
+    400080: polySurface23
+    400082: polySurface26
+    400084: polySurface3
+    400086: polySurface3 1
+    400088: polySurface4
+    400090: polySurface5
+    400092: polySurface6
+    400094: polySurface7
+    400096: polySurface8
+    400098: shoulders
+    400100: snout
+    400102: stomach
+    400104: tail
+    400106: tail_mid
+    400108: tail_start
+    400110: tail_tip
+    400112: transform1
+    400114: transform11
+    400116: transform12
+    400118: transform13
+    400120: transform14
+    400122: transform15
+    400124: transform16
+    400126: transform17
+    400128: transform18
+    400130: transform19
+    400132: transform2
+    400134: transform3
+    400136: transform4
+    400138: transform5
+    400140: transform6
+    400142: transform7
+    400144: transform8
+    400146: transform9
+    400148: wolf
+    400150: wolf_mesh
+    400152: //RootNode
+    4300000: wolf_mesh
+    7400000: Wolf_Idle
+    7400002: Wolf_Run
+    7400004: Wolf_Jump
+    7400006: Wolf_Bite
+    7400008: Wolf_Howl
+    7400010: Wolf_Walk
+    7400012: Wolf_Claw
+    7400014: Wolf_Damage
+    7400016: Wolf_Death
+    7400018: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: wolf_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wolf_Idle
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Run
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 118
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Jump
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Bite
+      takeName: Take 001
+      firstFrame: 211
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Howl
+      takeName: Take 001
+      firstFrame: 231
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Walk
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 180
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Claw
+      takeName: Take 001
+      firstFrame: 271
+      lastFrame: 293
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Damage
+      takeName: Take 001
+      firstFrame: 294
+      lastFrame: 315
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wolf_Death
+      takeName: Take 001
+      firstFrame: 316
+      lastFrame: 344
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/back
+        weight: 1
+      - path: pelvis/back/neck
+        weight: 1
+      - path: pelvis/back/neck/head
+        weight: 1
+      - path: pelvis/back/neck/head/jaw
+        weight: 1
+      - path: pelvis/back/neck/head/jaw/chin
+        weight: 1
+      - path: pelvis/back/neck/head/joint1
+        weight: 1
+      - path: pelvis/back/neck/head/joint1/joint2
+        weight: 1
+      - path: pelvis/back/neck/head/joint3
+        weight: 1
+      - path: pelvis/back/neck/head/joint3/joint2 1
+        weight: 1
+      - path: pelvis/back/neck/head/snout
+        weight: 1
+      - path: pelvis/back/neck/head/snout/nose
+        weight: 1
+      - path: pelvis/back/neck/shoulders
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_left_front_humer/leg_left_front_long/leg_left_front_meta/leg_left_front_claw
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1
+        weight: 1
+      - path: pelvis/back/neck/shoulders/leg_right_front_humer/leg_left_front_long
+          1/leg_left_front_meta 1/leg_left_front_claw 1
+        weight: 1
+      - path: pelvis/back/stomach
+        weight: 1
+      - path: pelvis/leg_left_back_humer
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta
+        weight: 1
+      - path: pelvis/leg_left_back_humer/leg_left_back_tibia/leg_left_back_meta/leg_left_back_claw
+        weight: 1
+      - path: pelvis/leg_right_back_humer
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta
+        weight: 1
+      - path: pelvis/leg_right_back_humer/leg_right_back_tibia/leg_right_back_meta/leg_right_back_claw
+        weight: 1
+      - path: pelvis/tail
+        weight: 1
+      - path: pelvis/tail/tail_start
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid
+        weight: 1
+      - path: pelvis/tail/tail_start/tail_mid/tail_tip
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform4
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform6
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform7
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/transform8
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform9
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/transform11
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/transform12
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/transform13
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/transform14
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/transform15
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/transform17
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/transform16
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/transform18
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/transform19
+        weight: 1
+      - path: polySurface26
+        weight: 1
+      - path: wolf
+        weight: 1
+      - path: wolf/polySurface2
+        weight: 1
+      - path: wolf/polySurface2/transform2
+        weight: 1
+      - path: wolf/polySurface3 1
+        weight: 1
+      - path: wolf/polySurface3 1/transform3
+        weight: 1
+      - path: wolf/transform1
+        weight: 1
+      - path: wolf_mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

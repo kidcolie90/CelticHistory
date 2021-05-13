@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: efbb60b3d76b6b64faabda65dff9283e
+labels:
+- Celltic
+- Medieval
+- Village
+- Props
+- Hut
+timeCreated: 1469109978
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beam_1
+    100004: Beam_1_1
+    100006: Beam_1_2
+    100008: Beam_1_7
+    100010: Bench_1b
+    100012: Bench_1b_1
+    100014: Cube
+    100016: Cube_18
+    100018: Fure_1
+    100020: Fure_2
+    100022: Fure_2_1
+    100024: Fure_3
+    100026: Fure_3_1
+    100028: Fure_3_2
+    100030: Alpha
+    100032: Wood
+    400000: //RootNode
+    400002: Beam_1
+    400004: Beam_1_1
+    400006: Beam_1_2
+    400008: Beam_1_7
+    400010: Bench_1b
+    400012: Bench_1b_1
+    400014: Cube
+    400016: Cube_18
+    400018: Fure_1
+    400020: Fure_2
+    400022: Fure_2_1
+    400024: Fure_3
+    400026: Fure_3_1
+    400028: Fure_3_2
+    400030: Alpha
+    400032: Wood
+    2300000: Beam_1
+    2300002: Beam_1_1
+    2300004: Beam_1_2
+    2300006: Beam_1_7
+    2300008: Bench_1b
+    2300010: Bench_1b_1
+    2300012: Cube
+    2300014: Cube_18
+    2300016: Fure_1
+    2300018: Fure_2
+    2300020: Fure_2_1
+    2300022: Fure_3
+    2300024: Fure_3_1
+    2300026: Fure_3_2
+    2300028: Alpha
+    2300030: Wood
+    3300000: Beam_1
+    3300002: Beam_1_1
+    3300004: Beam_1_2
+    3300006: Beam_1_7
+    3300008: Bench_1b
+    3300010: Bench_1b_1
+    3300012: Cube
+    3300014: Cube_18
+    3300016: Fure_1
+    3300018: Fure_2
+    3300020: Fure_2_1
+    3300022: Fure_3
+    3300024: Fure_3_1
+    3300026: Fure_3_2
+    3300028: Alpha
+    3300030: Wood
+    4300000: Beam_1_2
+    4300002: Beam_1_1
+    4300004: Cube
+    4300006: Bench_1b_1
+    4300008: Bench_1b
+    4300010: Beam_1
+    4300012: Cube_18
+    4300014: Beam_1_7
+    4300016: Fure_3_2
+    4300018: Fure_3_1
+    4300020: Fure_2_1
+    4300022: Fure_1
+    4300024: Fure_3
+    4300026: Fure_2
+    4300028: Alpha
+    4300030: Wood
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

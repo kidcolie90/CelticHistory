@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 63e4bf4b49e9f664695061354b4d0ae0
+labels:
+- Celltic
+- Medieval
+- Village
+- Props
+- Hut
+timeCreated: 1469121047
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Rock_2_1
+    100004: Rock_2_10
+    100006: Rock_2_11
+    100008: Rock_2_12
+    100010: Rock_2_13
+    100012: Rock_2_4
+    100014: Rock_2_5
+    100016: Rock_2_6
+    100018: Rock_2_7
+    100020: Rock_2_8
+    100022: Rock_2_9
+    100024: Rock_3_1
+    100026: Rock_3_10
+    100028: Rock_3_13
+    100030: Rock_3_4
+    100032: Rock_3_5
+    100034: Rock_3_6
+    100036: Rock_3_8
+    100038: Rock_3_9
+    100040: Rock_4_4
+    100042: Rock_4_5
+    100044: Rock_4_6
+    100046: Rock_4_7
+    100048: Rock_4_8
+    100050: Rock_4_9
+    100052: RockLong_1
+    100054: RockLong_1_1
+    100056: RockLong_1_3
+    100058: //RootNode
+    100060: Rock
+    100062: Wall
+    400000: Cube
+    400002: Rock_2_1
+    400004: Rock_2_10
+    400006: Rock_2_11
+    400008: Rock_2_12
+    400010: Rock_2_13
+    400012: Rock_2_4
+    400014: Rock_2_5
+    400016: Rock_2_6
+    400018: Rock_2_7
+    400020: Rock_2_8
+    400022: Rock_2_9
+    400024: Rock_3_1
+    400026: Rock_3_10
+    400028: Rock_3_13
+    400030: Rock_3_4
+    400032: Rock_3_5
+    400034: Rock_3_6
+    400036: Rock_3_8
+    400038: Rock_3_9
+    400040: Rock_4_4
+    400042: Rock_4_5
+    400044: Rock_4_6
+    400046: Rock_4_7
+    400048: Rock_4_8
+    400050: Rock_4_9
+    400052: RockLong_1
+    400054: RockLong_1_1
+    400056: RockLong_1_3
+    400058: //RootNode
+    400060: Rock
+    400062: Wall
+    2300000: Cube
+    2300002: Rock_2_1
+    2300004: Rock_2_10
+    2300006: Rock_2_11
+    2300008: Rock_2_12
+    2300010: Rock_2_13
+    2300012: Rock_2_4
+    2300014: Rock_2_5
+    2300016: Rock_2_6
+    2300018: Rock_2_7
+    2300020: Rock_2_8
+    2300022: Rock_2_9
+    2300024: Rock_3_1
+    2300026: Rock_3_10
+    2300028: Rock_3_13
+    2300030: Rock_3_4
+    2300032: Rock_3_5
+    2300034: Rock_3_6
+    2300036: Rock_3_8
+    2300038: Rock_3_9
+    2300040: Rock_4_4
+    2300042: Rock_4_5
+    2300044: Rock_4_6
+    2300046: Rock_4_7
+    2300048: Rock_4_8
+    2300050: Rock_4_9
+    2300052: RockLong_1
+    2300054: RockLong_1_1
+    2300056: RockLong_1_3
+    2300058: Rock
+    2300060: Wall
+    3300000: Cube
+    3300002: Rock_2_1
+    3300004: Rock_2_10
+    3300006: Rock_2_11
+    3300008: Rock_2_12
+    3300010: Rock_2_13
+    3300012: Rock_2_4
+    3300014: Rock_2_5
+    3300016: Rock_2_6
+    3300018: Rock_2_7
+    3300020: Rock_2_8
+    3300022: Rock_2_9
+    3300024: Rock_3_1
+    3300026: Rock_3_10
+    3300028: Rock_3_13
+    3300030: Rock_3_4
+    3300032: Rock_3_5
+    3300034: Rock_3_6
+    3300036: Rock_3_8
+    3300038: Rock_3_9
+    3300040: Rock_4_4
+    3300042: Rock_4_5
+    3300044: Rock_4_6
+    3300046: Rock_4_7
+    3300048: Rock_4_8
+    3300050: Rock_4_9
+    3300052: RockLong_1
+    3300054: RockLong_1_1
+    3300056: RockLong_1_3
+    3300058: Rock
+    3300060: Wall
+    4300000: Rock_3_13
+    4300002: RockLong_1_3
+    4300004: Rock_2_13
+    4300006: Rock_2_12
+    4300008: Rock_4_9
+    4300010: Rock_3_10
+    4300012: Rock_2_11
+    4300014: Rock_4_8
+    4300016: Rock_3_9
+    4300018: Rock_2_10
+    4300020: Rock_4_7
+    4300022: Rock_3_8
+    4300024: Rock_2_9
+    4300026: Rock_2_8
+    4300028: Rock_4_6
+    4300030: Rock_3_6
+    4300032: Rock_2_7
+    4300034: Rock_4_5
+    4300036: Rock_3_5
+    4300038: Rock_2_6
+    4300040: RockLong_1_1
+    4300042: Rock_4_4
+    4300044: Rock_3_4
+    4300046: Rock_2_5
+    4300048: Rock_2_4
+    4300050: Rock_3_1
+    4300052: Rock_2_1
+    4300054: RockLong_1
+    4300056: Cube
+    4300058: Rock
+    4300060: Wall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,66 @@
+Ghost and Banshee Animated Package
+
+BASIC INFORMATION:
+
+Fully animated and rigged 3d models of ghosts and banshees with textures.
+
+4 Different Prefabs with Animation controllers included. (textures, materials, and slight model variations)
+Banshee
+Ghost
+Putrid Ghost (with particle systems and emission) 
+Putrid Banshee (with particle systems and emission) 
+
+Basic maya rig included - so you can create your own custom animations.
+Diffuse, Normal Maps, Metallic Maps Emission and multiple materials included
+
+Models info 
+  banshee_body_geo
+    6590 verts, 11585 tris
+
+  ghost_body_geo
+    7047 verts, 12100 tris
+
+As you can see the total amount of tris and verts will depend 
+which prefab you choose to use.
+
+This package comes with variety of animations. 
+You will have multiple options. 
+
+Here is a total list with frames and information:
+
+Here is a list of animations (around 30):
+1) 000-005 - t_pose 
+2) 010-045 - walk/fly (loop)
+3) 050-085 - run/fly (loop)
+4) 100-130 - hurt_01
+5) 140-175 - die_01
+6) 180-190 - dead_01 (loop)
+7) 195-235 - defend_basic (no weapons)
+8) 245-280 - cast_spell_01 (right arm)
+9) 290-333 - cast_spell_02 (left arm)
+10) 340-403 - cast_spell_03 (both_arms)
+11) 410-455 - attack_basic_01
+12) 460-521 - attack_basic_02
+13) 530-591 - attack_basic_03
+14) 600-663 - ability_magic_01
+15) 670-755 - win
+16) 760-800 - lose 
+17) 800-862 - lose_idle (loop) 
+18) 870-961 - ability_magic_02 / magic_charge / win_02
+19) 970-1022 - ability_bite
+20) 1030-1040 - stand (use this one as a base)
+21) 1050-1200 - idle (loop) (use this one as a base)
+22) 1210-1244 - hurt_02 - twitchy/fast
+23) 1250-1304 - attack_basic_04 / zombie_attack_01
+24) 1310-1360 - attack_basic_05 / zombie_attack_02
+25) 1370-1409 - hurt_03
+26) 1420-1469 - attack_basic_06 / double hand grab attack
+27) 1480-1525 - die_02
+28) 1530-1550 - dead_02
+29) 1560-1610 - attack basic_07 / big swing
+30) 1620-1700 - ability_scream / banshee scream attack
+
+For questions send an email to: kornica3d@gmail.com
+
+KEYWORDS:
+Ghost, Banshee, Phantom, Animated, 3D, Character, Rig, Warrior, Customizable

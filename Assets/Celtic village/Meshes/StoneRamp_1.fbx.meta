@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 619f03b8f1eb8d94992048e6b54a44ef
+labels:
+- Celltic
+- Medieval
+- Village
+- Props
+- Hut
+timeCreated: 1468927614
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beam_1
+    100002: Beam_1_5
+    100004: Beam_1_6
+    100006: Bench_1b
+    100008: Bench_1b_1
+    100010: Bench_1b_2
+    100012: Bench_1b_3
+    100014: Bench_1b_4
+    100016: Bench_1b_5
+    100018: Bench_1b_6
+    100020: Bench_1b_7
+    100022: Bench_1b_8
+    100024: Bench_1b_9
+    100026: Cube_10
+    100028: //RootNode
+    100030: Stone
+    100032: Wood
+    400000: Beam_1
+    400002: Beam_1_5
+    400004: Beam_1_6
+    400006: Bench_1b
+    400008: Bench_1b_1
+    400010: Bench_1b_2
+    400012: Bench_1b_3
+    400014: Bench_1b_4
+    400016: Bench_1b_5
+    400018: Bench_1b_6
+    400020: Bench_1b_7
+    400022: Bench_1b_8
+    400024: Bench_1b_9
+    400026: Cube_10
+    400028: //RootNode
+    400030: Stone
+    400032: Wood
+    2300000: Beam_1
+    2300002: Beam_1_5
+    2300004: Beam_1_6
+    2300006: Bench_1b
+    2300008: Bench_1b_1
+    2300010: Bench_1b_2
+    2300012: Bench_1b_3
+    2300014: Bench_1b_4
+    2300016: Bench_1b_5
+    2300018: Bench_1b_6
+    2300020: Bench_1b_7
+    2300022: Bench_1b_8
+    2300024: Bench_1b_9
+    2300026: Cube_10
+    2300028: Stone
+    2300030: Wood
+    3300000: Beam_1
+    3300002: Beam_1_5
+    3300004: Beam_1_6
+    3300006: Bench_1b
+    3300008: Bench_1b_1
+    3300010: Bench_1b_2
+    3300012: Bench_1b_3
+    3300014: Bench_1b_4
+    3300016: Bench_1b_5
+    3300018: Bench_1b_6
+    3300020: Bench_1b_7
+    3300022: Bench_1b_8
+    3300024: Bench_1b_9
+    3300026: Cube_10
+    3300028: Stone
+    3300030: Wood
+    4300000: Beam_1
+    4300002: Bench_1b_9
+    4300004: Bench_1b_8
+    4300006: Bench_1b_7
+    4300008: Bench_1b_6
+    4300010: Bench_1b_5
+    4300012: Bench_1b_4
+    4300014: Bench_1b_3
+    4300016: Bench_1b_2
+    4300018: Beam_1_6
+    4300020: Beam_1_5
+    4300022: Bench_1b_1
+    4300024: Bench_1b
+    4300026: Cube_10
+    4300028: Wood
+    4300030: Stone
+    6400000: Beam_1
+    6400002: Beam_1_5
+    6400004: Beam_1_6
+    6400006: Bench_1b
+    6400008: Bench_1b_1
+    6400010: Bench_1b_2
+    6400012: Bench_1b_3
+    6400014: Bench_1b_4
+    6400016: Bench_1b_5
+    6400018: Bench_1b_6
+    6400020: Bench_1b_7
+    6400022: Bench_1b_8
+    6400024: Bench_1b_9
+    6400026: Cube_10
+    6400028: Stone
+    6400030: Wood
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

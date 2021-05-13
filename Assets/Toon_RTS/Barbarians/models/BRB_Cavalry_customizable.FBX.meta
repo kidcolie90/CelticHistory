@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 52e118ede3b3f244b8fddf5e1560baa9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Footsteps001
+    100006: Bip001 Head
+    100008: Bip001 Head001
+    100010: Bip001 HeadNub
+    100012: Bip001 HeadNub001
+    100014: Bip001 L Calf
+    100016: Bip001 L Calf001
+    100018: Bip001 L Clavicle
+    100020: Bip001 L Clavicle001
+    100022: Bip001 L Finger0
+    100024: Bip001 L Finger0Nub
+    100026: Bip001 L Foot
+    100028: Bip001 L Foot001
+    100030: Bip001 L Forearm
+    100032: Bip001 L Forearm001
+    100034: Bip001 L Hand
+    100036: Bip001 L Hand001
+    100038: Bip001 L Thigh
+    100040: Bip001 L Thigh001
+    100042: Bip001 L Toe0
+    100044: Bip001 L Toe001
+    100046: Bip001 L Toe0Nub
+    100048: Bip001 L Toe0Nub001
+    100050: Bip001 L UpperArm
+    100052: Bip001 L UpperArm001
+    100054: Bip001 Neck
+    100056: Bip001 Neck001
+    100058: Bip001 Pelvis
+    100060: Bip001 Pelvis001
+    100062: Bip001 R Calf
+    100064: Bip001 R Calf001
+    100066: Bip001 R Clavicle
+    100068: Bip001 R Clavicle001
+    100070: Bip001 R Finger0
+    100072: Bip001 R Finger0Nub
+    100074: Bip001 R Foot
+    100076: Bip001 R Foot001
+    100078: Bip001 R Forearm
+    100080: Bip001 R Forearm001
+    100082: Bip001 R Hand
+    100084: Bip001 R Hand001
+    100086: Bip001 R Thigh
+    100088: Bip001 R Thigh001
+    100090: Bip001 R Toe0
+    100092: Bip001 R Toe001
+    100094: Bip001 R Toe0Nub
+    100096: Bip001 R Toe0Nub001
+    100098: Bip001 R UpperArm
+    100100: Bip001 R UpperArm001
+    100102: Bip001 Spine
+    100104: Bip001 Spine001
+    100106: Bip001 Tail
+    100108: Bip001 Tail1
+    100110: Bip001 TailNub
+    100112: Bip002
+    100114: Bone_Mount
+    100116: BRB_arms_A
+    100118: BRB_arms_B
+    100120: BRB_arms_C
+    100122: BRB_body_A
+    100124: BRB_body_B
+    100126: BRB_body_C
+    100128: BRB_body_D
+    100130: BRB_body_E
+    100132: BRB_body_F
+    100134: BRB_body_G
+    100136: BRB_body_H
+    100138: //RootNode
+    100140: BRB_head_A
+    100142: BRB_head_B
+    100144: BRB_head_C
+    100146: BRB_head_D
+    100148: BRB_head_E
+    100150: BRB_head_F
+    100152: BRB_head_G
+    100154: BRB_head_H
+    100156: BRB_head_I
+    100158: BRB_head_J
+    100160: BRB_Horse
+    100162: BRB_horse_Seat
+    100164: BRB_legs_A
+    100166: BRB_legs_B
+    100168: BRB_legs_C
+    100170: BRB_Shield_A
+    100172: BRB_Shield_B
+    100174: BRB_Shield_C
+    100176: BRB_Shield_D
+    100178: BRB_shoulderpads_A
+    100180: BRB_shoulderpads_B
+    100182: BRB_shoulderpads_C
+    100184: BRB_weapon_axe_A
+    100186: BRB_weapon_axe_B
+    100188: BRB_weapon_axe_C
+    100190: BRB_weapon_Bow
+    100192: BRB_weapon_Dagger
+    100194: BRB_weapon_hammer_A
+    100196: BRB_weapon_hammer_B
+    100198: BRB_weapon_spear
+    100200: BRB_weapon_staff_A
+    100202: BRB_weapon_staff_B
+    100204: BRB_weapon_staff_C
+    100206: BRB_weapon_sword_A
+    100208: BRB_weapon_sword_B
+    100210: BRB_Xtra_quiver
+    100212: L_hand_container
+    100214: L_shield_container
+    100216: Quiver_container
+    100218: R_hand_container
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Footsteps001
+    400006: Bip001 Head
+    400008: Bip001 Head001
+    400010: Bip001 HeadNub
+    400012: Bip001 HeadNub001
+    400014: Bip001 L Calf
+    400016: Bip001 L Calf001
+    400018: Bip001 L Clavicle
+    400020: Bip001 L Clavicle001
+    400022: Bip001 L Finger0
+    400024: Bip001 L Finger0Nub
+    400026: Bip001 L Foot
+    400028: Bip001 L Foot001
+    400030: Bip001 L Forearm
+    400032: Bip001 L Forearm001
+    400034: Bip001 L Hand
+    400036: Bip001 L Hand001
+    400038: Bip001 L Thigh
+    400040: Bip001 L Thigh001
+    400042: Bip001 L Toe0
+    400044: Bip001 L Toe001
+    400046: Bip001 L Toe0Nub
+    400048: Bip001 L Toe0Nub001
+    400050: Bip001 L UpperArm
+    400052: Bip001 L UpperArm001
+    400054: Bip001 Neck
+    400056: Bip001 Neck001
+    400058: Bip001 Pelvis
+    400060: Bip001 Pelvis001
+    400062: Bip001 R Calf
+    400064: Bip001 R Calf001
+    400066: Bip001 R Clavicle
+    400068: Bip001 R Clavicle001
+    400070: Bip001 R Finger0
+    400072: Bip001 R Finger0Nub
+    400074: Bip001 R Foot
+    400076: Bip001 R Foot001
+    400078: Bip001 R Forearm
+    400080: Bip001 R Forearm001
+    400082: Bip001 R Hand
+    400084: Bip001 R Hand001
+    400086: Bip001 R Thigh
+    400088: Bip001 R Thigh001
+    400090: Bip001 R Toe0
+    400092: Bip001 R Toe001
+    400094: Bip001 R Toe0Nub
+    400096: Bip001 R Toe0Nub001
+    400098: Bip001 R UpperArm
+    400100: Bip001 R UpperArm001
+    400102: Bip001 Spine
+    400104: Bip001 Spine001
+    400106: Bip001 Tail
+    400108: Bip001 Tail1
+    400110: Bip001 TailNub
+    400112: Bip002
+    400114: Bone_Mount
+    400116: BRB_arms_A
+    400118: BRB_arms_B
+    400120: BRB_arms_C
+    400122: BRB_body_A
+    400124: BRB_body_B
+    400126: BRB_body_C
+    400128: BRB_body_D
+    400130: BRB_body_E
+    400132: BRB_body_F
+    400134: BRB_body_G
+    400136: BRB_body_H
+    400138: //RootNode
+    400140: BRB_head_A
+    400142: BRB_head_B
+    400144: BRB_head_C
+    400146: BRB_head_D
+    400148: BRB_head_E
+    400150: BRB_head_F
+    400152: BRB_head_G
+    400154: BRB_head_H
+    400156: BRB_head_I
+    400158: BRB_head_J
+    400160: BRB_Horse
+    400162: BRB_horse_Seat
+    400164: BRB_legs_A
+    400166: BRB_legs_B
+    400168: BRB_legs_C
+    400170: BRB_Shield_A
+    400172: BRB_Shield_B
+    400174: BRB_Shield_C
+    400176: BRB_Shield_D
+    400178: BRB_shoulderpads_A
+    400180: BRB_shoulderpads_B
+    400182: BRB_shoulderpads_C
+    400184: BRB_weapon_axe_A
+    400186: BRB_weapon_axe_B
+    400188: BRB_weapon_axe_C
+    400190: BRB_weapon_Bow
+    400192: BRB_weapon_Dagger
+    400194: BRB_weapon_hammer_A
+    400196: BRB_weapon_hammer_B
+    400198: BRB_weapon_spear
+    400200: BRB_weapon_staff_A
+    400202: BRB_weapon_staff_B
+    400204: BRB_weapon_staff_C
+    400206: BRB_weapon_sword_A
+    400208: BRB_weapon_sword_B
+    400210: BRB_Xtra_quiver
+    400212: L_hand_container
+    400214: L_shield_container
+    400216: Quiver_container
+    400218: R_hand_container
+    2300000: BRB_Shield_A
+    2300002: BRB_Shield_B
+    2300004: BRB_Shield_C
+    2300006: BRB_Shield_D
+    2300008: BRB_weapon_axe_A
+    2300010: BRB_weapon_axe_B
+    2300012: BRB_weapon_axe_C
+    2300014: BRB_weapon_Bow
+    2300016: BRB_weapon_Dagger
+    2300018: BRB_weapon_hammer_A
+    2300020: BRB_weapon_hammer_B
+    2300022: BRB_weapon_spear
+    2300024: BRB_weapon_staff_A
+    2300026: BRB_weapon_staff_B
+    2300028: BRB_weapon_staff_C
+    2300030: BRB_weapon_sword_A
+    2300032: BRB_weapon_sword_B
+    2300034: BRB_Xtra_quiver
+    3300000: BRB_Shield_A
+    3300002: BRB_Shield_B
+    3300004: BRB_Shield_C
+    3300006: BRB_Shield_D
+    3300008: BRB_weapon_axe_A
+    3300010: BRB_weapon_axe_B
+    3300012: BRB_weapon_axe_C
+    3300014: BRB_weapon_Bow
+    3300016: BRB_weapon_Dagger
+    3300018: BRB_weapon_hammer_A
+    3300020: BRB_weapon_hammer_B
+    3300022: BRB_weapon_spear
+    3300024: BRB_weapon_staff_A
+    3300026: BRB_weapon_staff_B
+    3300028: BRB_weapon_staff_C
+    3300030: BRB_weapon_sword_A
+    3300032: BRB_weapon_sword_B
+    3300034: BRB_Xtra_quiver
+    4300000: BRB_Horse
+    4300002: BRB_weapon_staff_A
+    4300004: BRB_weapon_Bow
+    4300006: BRB_weapon_staff_C
+    4300008: BRB_weapon_staff_B
+    4300010: BRB_Shield_A
+    4300012: BRB_Shield_C
+    4300014: BRB_Shield_D
+    4300016: BRB_Shield_B
+    4300018: BRB_weapon_sword_A
+    4300020: BRB_weapon_spear
+    4300022: BRB_weapon_axe_A
+    4300024: BRB_weapon_sword_B
+    4300026: BRB_weapon_hammer_A
+    4300028: BRB_weapon_Dagger
+    4300030: BRB_weapon_axe_B
+    4300032: BRB_weapon_hammer_B
+    4300034: BRB_weapon_axe_C
+    4300036: BRB_Xtra_quiver
+    4300038: BRB_horse_Seat
+    4300040: BRB_body_F
+    4300042: BRB_head_I
+    4300044: BRB_head_J
+    4300046: BRB_head_C
+    4300048: BRB_body_A
+    4300050: BRB_body_B
+    4300052: BRB_body_E
+    4300054: BRB_head_B
+    4300056: BRB_body_D
+    4300058: BRB_head_A
+    4300060: BRB_shoulderpads_B
+    4300062: BRB_body_G
+    4300064: BRB_head_D
+    4300066: BRB_head_F
+    4300068: BRB_head_H
+    4300070: BRB_shoulderpads_C
+    4300072: BRB_shoulderpads_A
+    4300074: BRB_head_E
+    4300076: BRB_head_G
+    4300078: BRB_body_C
+    4300080: BRB_body_H
+    4300082: BRB_arms_A
+    4300084: BRB_legs_A
+    4300086: BRB_arms_B
+    4300088: BRB_legs_B
+    4300090: BRB_arms_C
+    4300092: BRB_legs_C
+    9500000: //RootNode
+    13700000: BRB_arms_A
+    13700002: BRB_arms_B
+    13700004: BRB_arms_C
+    13700006: BRB_body_A
+    13700008: BRB_body_B
+    13700010: BRB_body_C
+    13700012: BRB_body_D
+    13700014: BRB_body_E
+    13700016: BRB_body_F
+    13700018: BRB_body_G
+    13700020: BRB_body_H
+    13700022: BRB_head_A
+    13700024: BRB_head_B
+    13700026: BRB_head_C
+    13700028: BRB_head_D
+    13700030: BRB_head_E
+    13700032: BRB_head_F
+    13700034: BRB_head_G
+    13700036: BRB_head_H
+    13700038: BRB_head_I
+    13700040: BRB_head_J
+    13700042: BRB_Horse
+    13700044: BRB_horse_Seat
+    13700046: BRB_legs_A
+    13700048: BRB_legs_B
+    13700050: BRB_legs_C
+    13700052: BRB_shoulderpads_A
+    13700054: BRB_shoulderpads_B
+    13700056: BRB_shoulderpads_C
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRB_Standard_Units
+    second: {fileID: 2100000, guid: 83f0b5d855e240e4b9db7df24bb81e73, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
