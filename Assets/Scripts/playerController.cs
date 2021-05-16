@@ -1,6 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+/// <summary>
+/// code references, learned from online game courses: https://www.udemy.com/course/unity3dplatformer
+/// </summary>
 
 public class playerController : MonoBehaviour
 {
@@ -28,7 +31,8 @@ public class playerController : MonoBehaviour
     public float hitLength = .5f;
     private float hitBackCounter;
     public Vector2 hitPower;
-
+    public float timeToAttack = 1f;
+    private float attackCounter;
 
     public GameObject[] playerPieces;
 
@@ -48,16 +52,11 @@ public class playerController : MonoBehaviour
     void Update()
     { //move player1 method
 
-
+       
 
 
         if (!isHitting) //wrapped all player movements in conditional if statment so player will not be able to move while being hit or knocked back
         {
-
-
-
-
-
 
 
             float yStore = moveAround.y; //only used in this loop to fix gravity and offset snapping in unity
@@ -66,6 +65,25 @@ public class playerController : MonoBehaviour
             moveAround.Normalize(); //keeps movement speed the same when traversing map in diaganels, this was double forward and back speed before normailse function applied
             moveAround = moveAround * moveSpeed;
             moveAround.y = yStore;
+
+
+      
+             /*   if (Input.GetKeyDown(KeyCode.E))
+                {
+                if(Input.GetAxisRaw("Horizontal") != 0 || Input.GetAxisRaw("Vertical") != 0)
+
+                transform.rotation = Quaternion.Euler(0f, camMain.transform.rotation.eulerAngles.y, 0f); //quaternion are what rotations are calculated in
+                Quaternion newRotation = Quaternion.LookRotation(new Vector3(moveAround.x, 0f, moveAround.z)); //look direction to move with mouse around x and y axises , 0 on z axis
+                                                                                                               //  playerModel.transform.rotation = newRotation; //player can move in correct look direction for example pressing down player will now look towards camera
+                playerModel.transform.rotation = Quaternion.Slerp(playerModel.transform.rotation, newRotation, rotateSpeed * Time.deltaTime);
+
+                anim.SetTrigger("Attack");
+
+
+            }*/
+
+
+
 
 
             if (charController.isGrounded) // stops character from flying by limiting y axis movment 
@@ -92,6 +110,8 @@ public class playerController : MonoBehaviour
                 playerModel.transform.rotation = Quaternion.Slerp(playerModel.transform.rotation, newRotation, rotateSpeed * Time.deltaTime); //taking current rotation, going to a new rotation and defining speed, this makes it look more smooth than above commented out section
 
             }
+
+
 
         }
 
@@ -120,12 +140,19 @@ public class playerController : MonoBehaviour
             }
 
         }
+      //  Attack();
 
         anim.SetFloat("Speed", Mathf.Abs(moveAround.x) + Mathf.Abs(moveAround.z)); //keeping move values always postitive using mathf absolute(abs) for animator condition in unity
         anim.SetBool("Grounded", charController.isGrounded);
+
+     
+
+      
+
+    
     }
 
-
+ 
 
 
 

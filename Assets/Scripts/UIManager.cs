@@ -2,6 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+/// <summary>
+/// code references, learned from online game courses: https://www.udemy.com/course/unity3dplatformer
+/// </summary>
+
 
 public class UIManager : MonoBehaviour
 {
